@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 "#shopify_app" 
+"# shopify_app" 
